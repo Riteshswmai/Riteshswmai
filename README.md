@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a **Data Analyst**, **Data Science**, and **Business A
 
 📫 **How to reach me:**
 - You can reach out to me on LinkedIn: [Ritesh Swami LinkedIn](https://www.linkedin.com/in/ritesh-kumar-77621b201/)
-- Email: ritesh.swami906@gmail.com (Replace with your email)
+- Email: riteshswami906@gmail.com (Replace with your email)
 
 😄 **Pronouns:** He/Him
 
