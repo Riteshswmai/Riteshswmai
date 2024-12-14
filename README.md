@@ -13,20 +13,20 @@ Welcome to my GitHub! I'm a **Data Analyst**, **Data Science**, and **Business A
 - New ways to optimize data visualization and reporting in **Power BI**.
 
 👯 **I’m looking to collaborate on:**
-- Data-driven projects involving **Business Analytics**, **Data Science**, and **Data Visualization**.
+- Data-driven projects involving **Business Analytics**, **Data Science**, and **Data Analyst**.
 - Real-world challenges where data analysis and insights can make a difference.
 
 🤔 **I’m looking for help with:**
 - Improving the performance of machine learning models.
-- Best practices for **Data Engineering** and **ETL** processes.
+- Best practices for **ML model** and **AI** processes.
 
 💬 **Ask me about:**
 - **Data Analytics**, **Business Analytics**, **Power BI**, **SQL**, **Python**, and how they all integrate to drive business growth.
 - Data visualization, reporting, and dashboard creation.
 
 📫 **How to reach me:**
-- You can reach out to me on LinkedIn: [Ritesh Swami LinkedIn](https://www.linkedin.com/in/ritesh-swami/)
-- Email: ritesh.swami@example.com (Replace with your email)
+- You can reach out to me on LinkedIn: [Ritesh Swami LinkedIn](https://www.linkedin.com/in/ritesh-kumar-77621b201/)
+- Email: ritesh.swami906@gmail.com (Replace with your email)
 
 😄 **Pronouns:** He/Him
 
