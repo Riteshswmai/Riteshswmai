@@ -1,33 +1,34 @@
-# Hi there 👋, I'm Ritesh Swami
+# Hi there 👋, I'm Ritesh Swami  
 
-Welcome to my GitHub! I'm a **Data Analyst**, **Data Science**, and **Business Analyst** passionate about transforming data into meaningful insights and supporting data-driven decision-making.
+Welcome to my GitHub! I'm a **Data Science Enthusiast** passionate about uncovering insights from data, building predictive models, and leveraging analytics to drive impactful decisions.  
 
-🔭 **I’m currently working on:**
-- Building data models and dashboards using **Power BI** to drive business decisions.
-- Exploring machine learning techniques with **Python** to solve real-world problems.
-- Analyzing large datasets using **SQL**, **Python**, and **Excel** to uncover actionable insights.
+## 🔍 About Me  
+- 📊 **Data Science | Machine Learning | Business Analytics | Data Visualization**  
+- 🎓 B.Tech in Computer Science & Engineering (Hons.) with a minor in **Data Science**  
+- 🏅 Certified in **Power BI, SQL, Python, and Data Science**  
+- 💡 Strong foundation in **EDA, Machine Learning, and Predictive Analytics**  
 
-🌱 **I’m currently learning:**
-- Advanced **Data Science** techniques, including deep learning and AI.
-- **Big Data** technologies and tools for handling large datasets.
-- New ways to optimize data visualization and reporting in **Power BI**.
+## 🚀 What I Do  
+- Analyze and process large datasets using **Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)**  
+- Build **Machine Learning models** like Regression, Classification, and Clustering  
+- Design **interactive dashboards** using **Power BI** for data-driven storytelling  
+- Query and optimize relational databases with **SQL**  
+- Work with **Time Series Analysis, NLP, and Deep Learning** (currently exploring 🤖)  
 
-👯 **I’m looking to collaborate on:**
-- Data-driven projects involving **Business Analytics**, **Data Science**, and **Data Analyst**.
-- Real-world challenges where data analysis and insights can make a difference.
+## 🌱 Currently Learning  
+- Advanced **Machine Learning & AI** techniques  
+- **Big Data** technologies like Spark & Hadoop  
+- Model optimization & deployment strategies  
 
-🤔 **I’m looking for help with:**
-- Improving the performance of machine learning models.
-- Best practices for **ML model** and **AI** processes.
+## 🤝 Looking to Collaborate On  
+- Data Science & Business Analytics projects  
+- Open-source contributions in **ML & AI**  
+- Real-world problem-solving using **Data Science**  
 
-💬 **Ask me about:**
-- **Data Analytics**, **Business Analytics**, **Power BI**, **SQL**, **Python**, and how they all integrate to drive business growth.
-- Data visualization, reporting, and dashboard creation.
+## 📩 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-riteshswami-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritesh-kumar-77621b201/)  
+📧 Email: riteshswami906@gmail.com  
 
-📫 **How to reach me:**
-- You can reach out to me on LinkedIn: [Ritesh Swami LinkedIn](https://www.linkedin.com/in/ritesh-kumar-77621b201/)
-- Email: riteshswami906@gmail.com (Replace with your email)
+---
 
-😄 **Pronouns:** He/Him
-
-⚡ **Fun fact:** I love analyzing patterns and trends, whether it's in data, business processes, or even in everyday life! I enjoy exploring new tools and technologies that allow me to solve complex problems.
+⚡ **Fun Fact:** I love finding hidden patterns in data, whether it's in business trends, sports analytics, or daily life!  
